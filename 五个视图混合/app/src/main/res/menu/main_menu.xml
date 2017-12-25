@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Android Images and Media"
+    android:id="@+id/menu1"/>
+    <item
+        android:title="Data Time"
+        android:id="@+id/menu2"
+        />
+    <item
+        android:title="Android Implicit"
+        android:id="@+id/menu3"
+        />
+    <item
+        android:title="Toast"
+        android:id="@+id/menu4"
+        />
+</menu>
